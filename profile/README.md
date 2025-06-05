@@ -8,4 +8,4 @@ We welcome new talents! Feel free to contact us.
 
 ## 📫 Contact
 
-- **Email**: developer@trycom.ai
+**Email**: developer@trycom.ai
